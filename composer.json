@@ -17,8 +17,7 @@
 		}
 	},
 	"require": {
-		"ext-json": "*",
-		"guzzle/guzzle": "~3.9"
+		"ext-json": "*"
 	},
 	"support": {
 		"issues": "https://github.com/kickboxio/kickbox-php/issues"
